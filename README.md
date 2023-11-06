@@ -2,7 +2,7 @@
 
 This repository supports the BiDS23 satellite event: 
 
-**Open & Reproducible workflows in Earth Observation (OREO)****
+**Open & Reproducible workflows in Earth Observation (OREO)**
 
 __Many cloud-based solutions for workflows in EO are available to users today, but only few support reproducibility or comply with FAIR data principles. In this tutorial we will demonstrate three solutions that meet these requirements: openEO process graphs, OGC Best Practice for EO Application Package and Deep ESDL workflows. Participants will be able to follow along using Jupyter lab notebooks, get familiarized with basic concepts and exemplify reproducibility for a set of use cases using workflows based on all three approaches. Users will also learn first-hand how these approaches are used in practice to build capacity on EO Open Data Science in the cloud (in the context of ESA’s Cubes and Clouds MOOC) and to enable reproducibility of algorithms feeding the NASA-ESA-JAXA EO Dashboard.__
 
